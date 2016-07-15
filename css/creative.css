@@ -322,8 +322,8 @@ aside {
 header {
     position: relative;
     width: 100%;
-    min-height: auto;
-    height: 100vh;
+/*    min-height: auto;*/
+    height: 50vh;
     text-align: center;
     color: #fff;
     display: -webkit-box;
@@ -332,8 +332,8 @@ header {
     display: -webkit-flex;
     display: flex;
     align-items: center;
-    background-image: url('../img/aurora.jpeg');
-    background-position: center;
+    background-image: url('../img/aurora.jpg');
+    background-position: bottom center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
